@@ -13,3 +13,6 @@ desktop.ini
 *.tmp
 *.bak
 *.log
+
+# 内部维护资料（验收记录、基线、月度报告）——手册第6章：内部 SOP 不进公开库
+_maintenance/
